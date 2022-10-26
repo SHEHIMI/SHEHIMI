@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHEHIMI
 - 👀 I’m interested in python/Javascript 
-- 🌱 I’m currently learning reactJS/NodeJS
+- 🌱 I’m currently learning ANGULAR
 - 💞️ I’m looking to collaborate on reactJS project 
 - 📫 How to reach me mshehim95i@gmail.com 
 - 🌱 Currently working with Flutter
