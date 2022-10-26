@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SHEHIMI
-- 👀 I’m interested in python/Javascript 
+- 👀 I’m interested in Javascript,C++ and SEO
 - 🌱 I’m currently learning ANGULAR
 - 💞️ I’m looking to collaborate on reactJS project 
 - 📫 How to reach me mshehim95i@gmail.com 
